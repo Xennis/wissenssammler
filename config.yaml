@@ -1,0 +1,6 @@
+baseURL: "https://xennis.github.io/wissenssammler"
+indexes:
+  tag: "tags"
+languageCode: "de-de"
+theme: "bleak"
+title: "Wissenssammler"
