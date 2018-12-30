@@ -1,5 +1,7 @@
 ---
+author: "Xennis"
 date: "2016-02-13T17:49:25+01:00"
+image: "posts/Weltraumschrott_in_der_erdnahen_Umlaufbahn_LEO_-_ueber_dem_Nordpol.jpg"
 slug: "2016/02/killersatelliten-und-weltraummuell"
 tags:
   - "weltraum"
@@ -22,7 +24,7 @@ Nach [8] betreiben vor allem die USA, China, Russland und Indien „erhebliche A
 
 Aber zurück zu der Frage, wie viele Satelliten es im All gibt. Nach Angaben der ESA waren es am 3. April 2013 3.588 Satelliten: [9]
 
-![Weltraumschrott In Der Erdnahen Umlaufbahn (LEO) – Über Dem Nordpol](/wissenssammler/images/Weltraumschrott_in_der_erdnahen_Umlaufbahn_LEO_-_ueber_dem_Nordpol.jpg)
+![Weltraumschrott In Der Erdnahen Umlaufbahn (LEO) – Über Dem Nordpol](/wissenssammler/images/posts/Weltraumschrott_in_der_erdnahen_Umlaufbahn_LEO_-_ueber_dem_Nordpol.jpg)
 
 Hinzu kommt Weltraummüll. Registriert sind über 13.000 Objekte und nach Berechnungen mittels mathematischer Modelle ergaben sich die folgenden Zahlen: [9]
 

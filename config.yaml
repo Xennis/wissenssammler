@@ -4,3 +4,7 @@ indexes:
 languageCode: "de-de"
 theme: "bleak"
 title: "Wissenssammler"
+
+params:
+  cover: "images/cover.jpg"
+  Subtitle: "Wissen ist Macht."
