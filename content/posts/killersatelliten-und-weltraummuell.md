@@ -4,7 +4,9 @@ date: "2016-02-13T17:49:25+01:00"
 image: "posts/Weltraumschrott_in_der_erdnahen_Umlaufbahn_LEO_-_ueber_dem_Nordpol.jpg"
 slug: "2016/02/killersatelliten-und-weltraummuell"
 tags:
-  - "weltraum"
+  - "Weltraum"
+  - "Müll"
+  - "Satelliten"
 title: "Killersatelliten und Weltraummüll"
 ---
 
