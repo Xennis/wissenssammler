@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Influenza on Wissenssammler</title>
+    <link>https://xennis.github.io/wissenssammler/tags/influenza/</link>
+    <description>Recent content in Influenza on Wissenssammler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 28 Dec 2015 13:26:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://xennis.github.io/wissenssammler/tags/influenza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pandemien – Sich weltweit ausbreitende Krankheiten</title>
+      <link>https://xennis.github.io/wissenssammler/posts/2015/12/pandemien-sich-weltweit-ausbreitende-krankheiten/</link>
+      <pubDate>Mon, 28 Dec 2015 13:26:39 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/posts/2015/12/pandemien-sich-weltweit-ausbreitende-krankheiten/</guid>
+      <description>Eine Epidemie ist die zeitliche und örtliche Häufung einer Krankheit innerhalb einer menschlichen Population [1] und ist somit örtlich beschränkt. Eine Pandemie hingegen beschreibt eine länder- und kontinentalübergreifende Ausbreitung einer Krankheit. [2]
+Ausbreitung Krankheitserreger können sich auf natürlichen Weg je nach Art der Übertragung über größere Entfernungen ausbreiten. Doch dieses hat Grenzen, geografische Barrieren wie etwa Ozeane. Erst durch Reisende kommt es zu einer Pandemie, etwa auf Schiffen (Pest im Mittelalter) oder Flugzeugen (HIV, SARS-CoV, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
