@@ -1,9 +1,10 @@
-google.load("visualization", "1", {
-	packages: ["corechart", "geochart"],
-	language: 'de'
+google.charts.load('current', {
+	packages: ['corechart', 'geochart'],
+	language: 'de',
+	mapsApiKey: 'AIzaSyBeK-vVloh1LTD6WAx49aQkBO3oYQNh0_k'
 });
 
-google.setOnLoadCallback(function() {
+google.charts.setOnLoadCallback(function() {
 	var data = google.visualization.arrayToDataTable([
 		['Länder', 'Millionen Karat'],
 		['De Beers (Luxemburg)', 6494],
@@ -23,7 +24,7 @@ google.setOnLoadCallback(function() {
 	chart.draw(data, options);
 });
 
-google.setOnLoadCallback(function() {
+google.charts.setOnLoadCallback(function() {
 	var data = google.visualization.arrayToDataTable([
 		['Country', 'Produktion in Tausend Karat'],
 		['Russia', 37884],
