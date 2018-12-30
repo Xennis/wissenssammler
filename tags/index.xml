@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wissenssammler</title>
+    <link>https://xennis.github.io/wissenssammler/tags/</link>
+    <description>Recent content in Tags on Wissenssammler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 02 Jan 2016 17:26:22 +0100</lastBuildDate>
+    
+	<atom:link href="https://xennis.github.io/wissenssammler/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diamant</title>
+      <link>https://xennis.github.io/wissenssammler/tags/diamant/</link>
+      <pubDate>Sat, 02 Jan 2016 17:26:22 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/diamant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handel</title>
+      <link>https://xennis.github.io/wissenssammler/tags/handel/</link>
+      <pubDate>Sat, 02 Jan 2016 17:26:22 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/handel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konfliktrohstoff</title>
+      <link>https://xennis.github.io/wissenssammler/tags/konfliktrohstoff/</link>
+      <pubDate>Sat, 02 Jan 2016 17:26:22 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/konfliktrohstoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weltraum</title>
+      <link>https://xennis.github.io/wissenssammler/tags/weltraum/</link>
+      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/weltraum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

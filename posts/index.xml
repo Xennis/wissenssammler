@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wissenssammler</title>
+    <link>https://xennis.github.io/wissenssammler/posts/</link>
+    <description>Recent content in Posts on Wissenssammler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 13 Feb 2016 17:49:25 +0100</lastBuildDate>
+    
+	<atom:link href="https://xennis.github.io/wissenssammler/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Killersatelliten und Weltraummüll</title>
+      <link>https://xennis.github.io/wissenssammler/posts/2016/02/killersatelliten-und-weltraummuell/</link>
+      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/posts/2016/02/killersatelliten-und-weltraummuell/</guid>
+      <description>Wie viele Satelliten umkreisen die Erde? Diese Frage stelle ich mir immer wieder, wenn ich höre, dass neue Satelliten ins Weltall geschossen werden. Für Galileo, das sich im Aufbau befindende europäische Navigationssystem, etwa werden 30 Satelliten benötigt. [1] Alleine für globale Navigationssystem (GPS der USA, GLONASS von Russland, Beidou von China und eben Galileo der Europäischen Union) wurden 227 Navigationssatelliten in den Erdumlaufbahn befördert. [2]
+Satelliten sind künstliche Flugobjekte, die einen Planeten oder Mond auf einer Umlaufbahn umkreisen.</description>
+    </item>
+    
+    <item>
+      <title>Diamanten – Vom härtesten Stoff bis zum flüssigen Blut</title>
+      <link>https://xennis.github.io/wissenssammler/posts/2016/01/diamanten-vom-haertesten-stoff-bis-zum-fluessigen-blut/</link>
+      <pubDate>Sat, 02 Jan 2016 17:26:22 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/posts/2016/01/diamanten-vom-haertesten-stoff-bis-zum-fluessigen-blut/</guid>
+      <description>Der Ursprung des Wortes Diamant liegt im Griechischen und bedeutet unbezwingbar. Nicht zu unrecht, ist Diamant doch der härteste natürliche Stoff. Nichtsdestotrotz können Diamanten mit Diamanten geschliffen werden. Die ersten Diamanten wurden laut Berichten bereits im 4. Jahrtausend v. Chr. in Indien gefunden und schon damals wurde ihnen eine magische Wirkung nachgesagt. Im 18. Jahrhundert kam es zu einem &amp;ldquo;Diamantenrausch&amp;rdquo;, als Diamanten außerhalb Asiens entdeckt wurden, zuerst in Südamerika (Brasilien) und dann in Afrika.</description>
+    </item>
+    
+  </channel>
+</rss>
