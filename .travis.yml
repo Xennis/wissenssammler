@@ -3,6 +3,6 @@ language: minimal
 addons:
   snaps:
   - hugo
-before_install:
+before_script:
   - hugo version
 script: hugo
