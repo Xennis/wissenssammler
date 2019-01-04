@@ -1,5 +1,7 @@
 # Wissenssammler
 
+[![Build Status](https://travis-ci.org/Xennis/wissenssammler.svg?branch=master)](https://travis-ci.org/Xennis/wissenssammler)
+
 ### Run the site locally
 
 Run the Hugo server and open the URL that it outputs

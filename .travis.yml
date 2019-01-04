@@ -1,0 +1,8 @@
+dist: xenial
+language: minimal
+addons:
+  snaps:
+  - hugo
+before_install:
+  - hugo version
+script: hugo
