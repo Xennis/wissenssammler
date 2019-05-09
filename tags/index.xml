@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Wissenssammler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 02 Jan 2016 17:26:22 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Feb 2016 17:49:25 +0100</lastBuildDate>
     
 	<atom:link href="https://xennis.github.io/wissenssammler/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Müll</title>
+      <link>https://xennis.github.io/wissenssammler/tags/m%C3%BCll/</link>
+      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/m%C3%BCll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satelliten</title>
+      <link>https://xennis.github.io/wissenssammler/tags/satelliten/</link>
+      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/satelliten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weltraum</title>
+      <link>https://xennis.github.io/wissenssammler/tags/weltraum/</link>
+      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/weltraum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diamant</title>
@@ -30,15 +57,6 @@
     </item>
     
     <item>
-      <title>Influenza</title>
-      <link>https://xennis.github.io/wissenssammler/tags/influenza/</link>
-      <pubDate>Mon, 28 Dec 2015 13:26:39 +0100</pubDate>
-      
-      <guid>https://xennis.github.io/wissenssammler/tags/influenza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Konfliktrohstoff</title>
       <link>https://xennis.github.io/wissenssammler/tags/konfliktrohstoff/</link>
       <pubDate>Sat, 02 Jan 2016 17:26:22 +0100</pubDate>
@@ -48,29 +66,11 @@
     </item>
     
     <item>
-      <title>Lebensmittel</title>
-      <link>https://xennis.github.io/wissenssammler/tags/lebensmittel/</link>
-      <pubDate>Thu, 03 Dec 2015 22:14:25 +0100</pubDate>
+      <title>Influenza</title>
+      <link>https://xennis.github.io/wissenssammler/tags/influenza/</link>
+      <pubDate>Mon, 28 Dec 2015 13:26:39 +0100</pubDate>
       
-      <guid>https://xennis.github.io/wissenssammler/tags/lebensmittel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Müll</title>
-      <link>https://xennis.github.io/wissenssammler/tags/m%C3%BCll/</link>
-      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
-      
-      <guid>https://xennis.github.io/wissenssammler/tags/m%C3%BCll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nestlé</title>
-      <link>https://xennis.github.io/wissenssammler/tags/nestl%C3%A9/</link>
-      <pubDate>Thu, 03 Dec 2015 22:14:25 +0100</pubDate>
-      
-      <guid>https://xennis.github.io/wissenssammler/tags/nestl%C3%A9/</guid>
+      <guid>https://xennis.github.io/wissenssammler/tags/influenza/</guid>
       <description></description>
     </item>
     
@@ -93,11 +93,20 @@
     </item>
     
     <item>
-      <title>Satelliten</title>
-      <link>https://xennis.github.io/wissenssammler/tags/satelliten/</link>
-      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
+      <title>Lebensmittel</title>
+      <link>https://xennis.github.io/wissenssammler/tags/lebensmittel/</link>
+      <pubDate>Thu, 03 Dec 2015 22:14:25 +0100</pubDate>
       
-      <guid>https://xennis.github.io/wissenssammler/tags/satelliten/</guid>
+      <guid>https://xennis.github.io/wissenssammler/tags/lebensmittel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nestlé</title>
+      <link>https://xennis.github.io/wissenssammler/tags/nestl%C3%A9/</link>
+      <pubDate>Thu, 03 Dec 2015 22:14:25 +0100</pubDate>
+      
+      <guid>https://xennis.github.io/wissenssammler/tags/nestl%C3%A9/</guid>
       <description></description>
     </item>
     
@@ -107,15 +116,6 @@
       <pubDate>Thu, 03 Dec 2015 22:14:25 +0100</pubDate>
       
       <guid>https://xennis.github.io/wissenssammler/tags/unternehmen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weltraum</title>
-      <link>https://xennis.github.io/wissenssammler/tags/weltraum/</link>
-      <pubDate>Sat, 13 Feb 2016 17:49:25 +0100</pubDate>
-      
-      <guid>https://xennis.github.io/wissenssammler/tags/weltraum/</guid>
       <description></description>
     </item>
     
