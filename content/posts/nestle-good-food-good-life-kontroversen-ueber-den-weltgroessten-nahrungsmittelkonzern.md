@@ -1,7 +1,7 @@
 ---
 author: "Xennis"
 date: "2015-12-03T22:14:25+01:00"
-image: "posts/nestle.jpg"
+image: "images/posts/nestle.jpg"
 slug: "2015/12/nestle-good-food-good-life-kontroversen-ueber-den-weltgroessten-nahrungsmittelkonzern"
 tags:
   - "Lebensmittel"

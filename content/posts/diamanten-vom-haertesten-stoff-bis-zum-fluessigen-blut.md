@@ -1,9 +1,7 @@
 ---
 author: "Xennis"
 date: "2016-01-02T17:26:22+01:00"
-featured: "true"
-image: "posts/diamant.jpg"
-js: "https://www.gstatic.com/charts/loader.js"
+image: "images/posts/diamant.jpg"
 slug: "2016/01/diamanten-vom-haertesten-stoff-bis-zum-fluessigen-blut"
 tags:
   - "Diamant"
@@ -14,6 +12,7 @@ title: "Diamanten – Vom härtesten Stoff bis zum flüssigen Blut"
 
 ![Diamonds are a woman's best](/wissenssammler/images/posts/diamant.jpg)
 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="/wissenssammler/js/diamanten-vom-haertesten-stoff-bis-zum-fluessigen-blut.js"></script>
 
 Der Ursprung des Wortes Diamant liegt im Griechischen und bedeutet unbezwingbar. Nicht zu unrecht, ist Diamant doch der härteste natürliche Stoff. Nichtsdestotrotz können Diamanten mit Diamanten geschliffen werden. Die ersten Diamanten wurden laut Berichten bereits im 4. Jahrtausend v. Chr. in Indien gefunden und schon damals wurde ihnen eine magische Wirkung nachgesagt. Im 18. Jahrhundert kam es zu einem „Diamantenrausch“, als Diamanten außerhalb Asiens entdeckt wurden, zuerst in Südamerika (Brasilien) und dann in Afrika. Südafrika wurde kurze Zeit nach dem ersten Fund zum Hauptlieferanten. Heutzutage ist Russland der Hauptlieferant von Diamanten. [1]

@@ -2,9 +2,17 @@ baseURL: "https://xennis.github.io/wissenssammler"
 indexes:
   tag: "tags"
 languageCode: "de-de"
-theme: "bleak"
+theme: "creative-portfolio"
 title: "Wissenssammler"
 
 params:
-  cover: "images/cover.jpg"
-  Subtitle: "Wissen ist Macht."
+  # create-portfolio theme:
+  style: "sea"
+  copyright: "Wissenssammler"
+  sidebarAbout: ["Wissen ist Macht."]
+  navlinks:
+    - name: Home
+      url: portfolio/
+      home: true
+    - name: Über
+      url: ueber/
