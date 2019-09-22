@@ -1,8 +1,7 @@
 ---
 author: "Xennis"
 date: "2015-12-28T13:26:39+01:00"
-image: "posts/H1N1_map.svg"
-js: "https://www.gstatic.com/charts/loader.js"
+image: "images/posts/H1N1_map.svg"
 slug: "2015/12/pandemien-sich-weltweit-ausbreitende-krankheiten"
 tags:
   - "Influenza"
@@ -13,6 +12,7 @@ title: "Pandemien – Sich weltweit ausbreitende Krankheiten"
 
 ![Karte H1n1](/wissenssammler/images/posts/H1N1_map.svg)
 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="/wissenssammler/js/pandemien-sich-weltweit-ausbreitende-krankheiten.js"></script>
 
 Eine __Epidemie__ ist die _zeitliche und örtliche Häufung einer Krankheit innerhalb einer menschlichen Population_ [1] und ist somit örtlich beschränkt. Eine __Pandemie__ hingegen beschreibt eine _länder- und kontinentalübergreifende Ausbreitung einer Krankheit_. [2]
