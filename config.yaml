@@ -8,7 +8,6 @@ title: "Wissenssammler"
 params:
   # create-portfolio theme:
   style: "sea"
-  copyright: "Wissenssammler"
   sidebarAbout: ["Wissen ist Macht."]
   navlinks:
     - name: Home
